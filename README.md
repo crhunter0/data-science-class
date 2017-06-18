@@ -1,4 +1,4 @@
-# data-science-class
+# datasciencecoursera
 ## This repo will be used for classes in the Data Science Specialization from Coursera
 ## Classes include
 * The Data Scientist's Toolbox
